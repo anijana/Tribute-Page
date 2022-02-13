@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tribute-Page/static/css/main.2ac369f3.css",
+    "main.js": "/Tribute-Page/static/js/main.1e41d7fa.js",
+    "static/js/787.f29c495a.chunk.js": "/Tribute-Page/static/js/787.f29c495a.chunk.js",
+    "index.html": "/Tribute-Page/index.html",
+    "main.2ac369f3.css.map": "/Tribute-Page/static/css/main.2ac369f3.css.map",
+    "main.1e41d7fa.js.map": "/Tribute-Page/static/js/main.1e41d7fa.js.map",
+    "787.f29c495a.chunk.js.map": "/Tribute-Page/static/js/787.f29c495a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac369f3.css",
+    "static/js/main.1e41d7fa.js"
+  ]
+}
