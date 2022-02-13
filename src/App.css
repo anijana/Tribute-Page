@@ -1,5 +1,25 @@
+body{
+  background-color: #ffeaa7;
+}
+
 .App {
   text-align: center;
+  
+}
+.img{
+  background-color: white;
+  width: 1300px;
+  margin: auto;
+  height: 520px;
+}
+img{
+  margin-top: 20px;
+}
+b{
+  color: brown;
+}
+.para{
+  margin: 0 30px 0 30px;
 }
 
 .App-logo {
